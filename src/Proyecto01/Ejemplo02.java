@@ -25,7 +25,7 @@ public class Ejemplo02 {
 
         //Lectura del número de alumnos. Debe ser un valor positivo
         do {
-            System.out.print("Número de alumnos de la clase: ");
+            System.out.print("Número de alumnos de la clase: tantos alumnos pongas tantos numeros pondras");
             numAlum = sc.nextInt();
         } while (numAlum <= 0);
 
